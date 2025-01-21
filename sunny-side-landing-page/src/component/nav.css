@@ -1,0 +1,17 @@
+.nav{
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 5vh;
+}
+.nav .HeaderList{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 30px;
+}
+.HeaderList .link1{
+    color: rgb(255, 255, 255);
+    text-transform: capitalize;
+    text-decoration: none;
+}

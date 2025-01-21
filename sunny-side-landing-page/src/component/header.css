@@ -1,0 +1,7 @@
+.Header{
+    background-image: url(/sunny-side-landing-page/src/assets/images/desktop/image-header.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    padding-inline: 5vw;
+}
