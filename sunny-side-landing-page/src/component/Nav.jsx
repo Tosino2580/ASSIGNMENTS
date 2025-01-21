@@ -1,6 +1,4 @@
 import Logo from '/src/assets/images/logo.svg';
-import './nav.css'
-
 const Nav = ()=>{
     return(
         <nav className='nav'>
