@@ -1,8 +1,8 @@
-import logo2 from '/src/assets/images/logo2.svg';
+import logo2 from "/src/assets/images/logo2.svg";
 
 const Footer = () => {
   return (
-    <div className='footer'>
+    <div className="footer">
       <div>
         <img src={logo2} alt="" />
       </div>
